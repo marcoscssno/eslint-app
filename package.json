@@ -1,0 +1,7 @@
+{
+  "name": "eslint-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcos Cassiano <marcoscssno@gmail.com>",
+  "license": "MIT"
+}
